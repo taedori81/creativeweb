@@ -8399,7 +8399,7 @@ a:hover {
 /*--------------------------------------------------------------- */
 /* line 305, custom-other.less */
 #home {
-  background: url(../../images/cover.png);
+  background: url(../images/cover.png);
   background-color: #222;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -8412,7 +8412,7 @@ a:hover {
 /* line 318, custom-other.less */
 .home-overlay {
   background-color: rgba(44, 62, 80, 0.1);
-  background-image: url(../../images/pattern.png);
+  background-image: url(../images/pattern.png);
   background-repeat: repeat;
   height: 100%;
   left: 0;
@@ -8500,7 +8500,7 @@ a:hover {
 }
 /* line 396, custom-other.less */
 #services {
-  background: url(../../images/greyzz.png);
+  background: url(../images/greyzz.png);
   background-repeat: repeat;
   height: 100%;
   left: 0;
@@ -8513,7 +8513,7 @@ a:hover {
 /* ---------------------------------------------- */
 /* line 411, custom-other.less */
 #approach {
-  background: url(../../images/symphony.png);
+  background: url(../images/symphony.png);
   background-repeat: repeat;
   height: 100%;
   width: 100%;
